@@ -1,2 +1,2 @@
 # Evolve_projects
-This is a repository contains all tasks which I committed under Evolve Intern
+This is a repository of  tasks 1 which I committed under Evolve Intern
